@@ -1,0 +1,1 @@
+print(" chemo gamzdelo lobio")
